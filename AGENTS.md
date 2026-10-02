@@ -1,0 +1,3 @@
+# desk helper ui contributor rules
+
+Default to offline demo. Keep project/history/task isolation, explicit tool confirmation, cancellation fences and idempotency. Never auto-execute model text, shell, URLs or plugins. Backend plugins are trusted explicit local code, not sandboxed. Do not print/persist credentials or raw provider exceptions. No automatic retry/fallback. Runtime changes: python scripts/check.py; headless core only: add --core-only and disclose UI not run. Preserve failing evidence. Do not change user workspace or system permissions. Pure docs: check links and content. No third-party dependencies without license review and a reproducible install path.

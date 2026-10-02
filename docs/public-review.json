@@ -1,0 +1,14 @@
+{
+  "scope": "current clean snapshot; no old Git history copied",
+  "company_identifiers_or_old_brand_markers": "no_matches_in_reviewed_text",
+  "token_and_private_key_shape_scan": "no_matches_in_reviewed_text",
+  "binary_company_assets_or_wheels": "none",
+  "runtime_imports": "stdlib_and_own_package_only",
+  "license": "MIT; copyright 2026 Li-Syuan Hong",
+  "third_party_notice": "separate runtime components; no vendored packages",
+  "limitations": [
+    "Pattern checks are not an exhaustive security/legal audit.",
+    "Trusted user plugins are arbitrary code and may need independent credentials/dependency/permissions review.",
+    "Live models, other OS/Python versions and physical user accessibility workflows not tested."
+  ]
+}

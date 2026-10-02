@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "snapshot": "desk helper ui 0.1.0",
+  "inherits_git_history": false,
+  "third_party_wheels_bundled": false,
+  "files": [
+    {
+      "path": ".gitattributes",
+      "sha256": "d60f352d0db1404c70afb4bb8b2ca3fd1c610572aa40720e8a0b7baa7885418c"
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "59e10dbf8b69a0efc9152946e0ddf09339b2a6d9544057cda1b0aaee0b32b989"
+    },
+    {
+      "path": "AGENTS.md",
+      "sha256": "ca7020088c62bd9066cd9452cccace348f15fba7b06bc94e69945d968e763d79"
+    },
+    {
+      "path": "desk_helper_ui/__init__.py",
+      "sha256": "e3ba77f677d86b2d390d490054344246e750bc7a07d0cfcfc39f91c3a9bf5ba6"
+    },
+    {
+      "path": "desk_helper_ui/__main__.py",
+      "sha256": "4eb4e2414315866edc1de9c220900a08ace72be4cc672ab7205c2b2f0b916ec2"
+    },
+    {
+      "path": "desk_helper_ui/app.py",
+      "sha256": "fa0d4ccaf483beaf4db6a73802b797aed77f764f1caae7df5ec0ef73acdd8cad"
+    },
+    {
+      "path": "desk_helper_ui/backends.py",
+      "sha256": "7a50b2ece15802022956eb0c33abd9b363043e6eef636c15b9fe01b32a9224b1"
+    },
+    {
+      "path": "desk_helper_ui/core.py",
+      "sha256": "a911ad1d7887aa57c3d87df93fecab1a792d4d1d5b6c3c05fd404fe58c9aafe2"
+    },
+    {
+      "path": "docs/BACKENDS.md",
+      "sha256": "de0d2b7a749950cfcb6faaee5feceea27b97bea4f8267c1beec4a5bb3a2be91f"
+    },
+    {
+      "path": "docs/public-review.json",
+      "sha256": "e26e19e34b25550af796fe26dbe03ad5d24e90325722e2a1363bd700b75f1910"
+    },
+    {
+      "path": "docs/validation.json",
+      "sha256": "7668d05fe9baf465b7ec3a3e56048e787b31cb9145f606eea05352fdb75b031d"
+    },
+    {
+      "path": "docs/VALIDATION.md",
+      "sha256": "e406d88fbf2bb91f37eebd6b8bd6a4417665c9e44f37c2b86560c02fff5aba49"
+    },
+    {
+      "path": "examples/custom_backend.py",
+      "sha256": "ba923fa8ae53d153d9e5b58ef050e499451e45b03cf57ad4d60f26b6d2f16ff7"
+    },
+    {
+      "path": "install-offline.bat",
+      "sha256": "a7c9f2cc2137dd3c3243879cb73cf6285ff907406b81bf80ea731576339b5a7b"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "e98e773fe694cc9e4ee3bac818aa1d4dea95a3934fc3869f2cdaa7b0914ae445"
+    },
+    {
+      "path": "README.md",
+      "sha256": "2b6498dadabcd7c734e3e6a01f0bd625dfce67bd1a930905875d246e195574cc"
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "ad34208284c050c56eaddb301e30c83d1406efa36fad2b0b427b48294d970864"
+    },
+    {
+      "path": "scripts/check.py",
+      "sha256": "60f2338c3eace84395c8cecec466f727a7f553890684494611a7702375b96405"
+    },
+    {
+      "path": "scripts/install_offline.py",
+      "sha256": "3c3f34e4c34fbf51a7992a0ed8eb21844a9527f56f1a5e80840aa97ec4353fd9"
+    },
+    {
+      "path": "start-app.bat",
+      "sha256": "342e6695c12e720be60c491dd4ee46c5ac538f96f43b8900851adba6712080a0"
+    },
+    {
+      "path": "start-demo.bat",
+      "sha256": "5c113a62ebc1c8a9e78bd6a6d83f6627cb2099f06bf001c48f8002b5eedd07aa"
+    },
+    {
+      "path": "test.bat",
+      "sha256": "c60d4692629bafd518d6d559ace9b7418a3122ede047e4241b664eb90b152a81"
+    },
+    {
+      "path": "tests/test_core.py",
+      "sha256": "ec1110b4f3215302d014323e3b532d91379f328d0fb95afc2c65fff642320923"
+    },
+    {
+      "path": "tests/test_ui.py",
+      "sha256": "f3c3564be83a7a49212ac14721aeeb6e786ea0cddec4be9cde62779724f96851"
+    },
+    {
+      "path": "THIRD-PARTY-NOTICES.md",
+      "sha256": "8fdf886ab482fbc939e18a8da7f6d2b2d36dba96dd2be7c096dbe814f10c36f2"
+    }
+  ]
+}

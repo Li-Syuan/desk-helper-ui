@@ -1,0 +1,32 @@
+{
+  "syntax": "passed",
+  "live_models": "not_tested",
+  "ui": "passed",
+  "steps": [
+    {
+      "suite": "test_core.py",
+      "count": 14,
+      "failures": 0,
+      "errors": 0,
+      "skips": 0,
+      "passed": true
+    },
+    {
+      "suite": "test_ui.py",
+      "count": 6,
+      "failures": 0,
+      "errors": 0,
+      "skips": 0,
+      "passed": true
+    }
+  ],
+  "passed": true,
+  "python": "3.10.4",
+  "platform": "Windows x64",
+  "native_temporary_launch_cleanup": "passed",
+  "visual_window_review": "passed_after_footer_layout_fix",
+  "runtime_dependencies": "standard_library_only",
+  "live_model_api": "not_tested",
+  "company_integrations": "not_included",
+  "other_platforms": "not_tested"
+}
